@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\udmey\udmey\bin\Release\udmey.exe.config
+C:\Users\pc\source\repos\udmey\udmey\bin\Release\udmey.exe
+C:\Users\pc\source\repos\udmey\udmey\bin\Release\udmey.pdb
+C:\Users\pc\source\repos\udmey\udmey\obj\Release\udmey.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\udmey\udmey\obj\Release\udmey.exe
+C:\Users\pc\source\repos\udmey\udmey\obj\Release\udmey.pdb
